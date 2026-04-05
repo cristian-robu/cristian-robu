@@ -2,7 +2,7 @@
 
 Data Scientist | Data Engineer | AI Engineer
 
-PhD candidate in Statistics & Operations Research at the University of Lisbon (FCUL). MSc in Applied Mathematics for Industry from ISEL, with an Erasmus year at INSA Toulouse. Currently working on data automation, pipeline engineering, and operational analytics at Informa Markets in Switzerland.
+PhD candidate in Statistics & Operations Research at the University of Lisbon (FCUL). MSc in Applied Mathematics for Industry from ISEL, with an Erasmus year at INSA Toulouse. Currently working on data automation, pipeline engineering, and operational analytics at Informa Markets, based in Switzerland.
 
 ---
 
