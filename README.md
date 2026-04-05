@@ -66,4 +66,4 @@ Experience includes data engineering and automation at Informa Markets (Switzerl
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/cristian-robu-33b757205/)
+[LinkedIn](https://www.linkedin.com/in/cristianrobu/)
