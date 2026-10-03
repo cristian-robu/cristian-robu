@@ -1,6 +1,6 @@
 # Cristian Robu
 
-Data Engineer | AI Engineer | PhD Candidate
+Data Engineer | AI Engineer
 
 MSc in Applied Mathematics for Industry from ISEL, with an Erasmus year at INSA Toulouse. Currently working on data automation, pipeline engineering, and operational analytics at Informa Markets, based in Switzerland.
 
@@ -55,7 +55,6 @@ MSc in Applied Mathematics for Industry from ISEL, with an Erasmus year at INSA 
 
 ## Background
 
-- **PhD** in Statistics & Operations Research — FCUL, University of Lisbon (2025 – present)
 - **MSc** in Applied Mathematics for Industry — ISEL, Lisbon (2022 – 2024)
 - **Erasmus** in Applied Mathematics — INSA Toulouse, France (2023 – 2024)
 - **BSc** in Mathematics Applied to Technology and Enterprise — ISEL, Lisbon (2018 – 2022)
