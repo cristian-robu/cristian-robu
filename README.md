@@ -65,4 +65,4 @@ Experience includes data engineering and automation at Informa Markets (Switzerl
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/cristianrobu/) | [ORCID](https://orcid.org/0009-0004-1768-0716)
+[LinkedIn](https://www.linkedin.com/in/cristianrobu/)
